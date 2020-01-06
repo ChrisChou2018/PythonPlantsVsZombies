@@ -24,6 +24,6 @@ $ python main.py
   * level 5: wallnut bowling level
 
 # Demo
-![demo1](https://raw.githubusercontent.com/marblexu/PythonPlantsVsZombies/master/demo/demo1.jpg)
-![demo2](https://raw.githubusercontent.com/marblexu/PythonPlantsVsZombies/master/demo/demo2.jpg)
+![demo1](https://raw.githubusercontent.com/ChrisChou2018/PythonPlantsVsZombies/master/demo/demo1.jpg)
+![demo2](https://raw.githubusercontent.com/ChrisChou2018/PythonPlantsVsZombies/master/demo/demo2.jpg)
 
